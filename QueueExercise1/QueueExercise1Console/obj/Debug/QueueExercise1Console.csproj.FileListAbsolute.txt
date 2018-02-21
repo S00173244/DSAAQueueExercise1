@@ -1,0 +1,2 @@
+c:\users\s00173244\documents\visual studio 2015\Projects\QueueExercise1\QueueExercise1Console\bin\Debug\QueueExercise1Console.exe.config
+C:\Users\S00173244\Source\Repos\DSAAQueueExercise1\QueueExercise1\QueueExercise1Console\bin\Debug\QueueExercise1Console.exe.config
